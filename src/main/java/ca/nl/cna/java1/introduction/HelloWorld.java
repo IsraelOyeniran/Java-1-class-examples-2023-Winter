@@ -15,22 +15,4 @@ public class HelloWorld {
         System.out.println("Hello World!");
     }
 
-    public static void doSomething(){
-
-    }
-
-
-
-    /**
-     * This is a java doc comment
-     */
-
-    //this is a single line comment
-
-    /*
-
-    This is a multi line comment
-
-    */
-
 }
