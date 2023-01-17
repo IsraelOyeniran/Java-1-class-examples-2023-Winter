@@ -16,7 +16,6 @@ public class FunWithPrintf {
         int i = 12;
         System.out.printf("\nThe value of i is: %d", i);
 
-
     }
 
 }
