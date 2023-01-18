@@ -5,6 +5,8 @@ import java.util.Scanner;
 /**
  * Playing around with console input
  *
+ * Example from Chapter 2 Notes
+ *
  * @author josh.taylor
  */
 public class FunWithScanner {

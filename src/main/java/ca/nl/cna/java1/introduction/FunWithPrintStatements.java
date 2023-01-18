@@ -3,6 +3,8 @@ package ca.nl.cna.java1.introduction;
 /**
  * Playing around with some basic Java syntax
  *
+ * Example from beginning of Chapter 2 Notes
+ *
  * @author josh.taylor
  */
 public class FunWithPrintStatements {

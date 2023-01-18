@@ -5,6 +5,8 @@ import java.util.Scanner;
 /**
  * Fun with comparing integers
  *
+ * Example from Chapter 2 Notes
+ *
  * @author josh.taylor
  */
 public class FunWithComparisons {
