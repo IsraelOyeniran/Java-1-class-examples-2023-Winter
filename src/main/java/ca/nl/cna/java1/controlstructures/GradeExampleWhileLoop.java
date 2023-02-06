@@ -31,7 +31,7 @@ public class GradeExampleWhileLoop {
             gradeCounter++;
         }
 
-        System.out.printf("Class average: %d", total/gradeCounter);
+        System.out.printf("Class average: %d", total/NUM_STUDENTS);
     }
 
 }

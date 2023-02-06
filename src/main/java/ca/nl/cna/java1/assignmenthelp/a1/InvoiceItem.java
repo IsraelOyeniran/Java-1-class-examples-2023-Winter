@@ -8,4 +8,6 @@ public class InvoiceItem {
 
     //TODO write the rest of the class
 
+    //TODO write the getTotal method which returns the product price * quantity
+
 }
