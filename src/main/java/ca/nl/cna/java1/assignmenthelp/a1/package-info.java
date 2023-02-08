@@ -10,6 +10,8 @@ package ca.nl.cna.java1.assignmenthelp.a1;
  *   To:                                                   Invoice #6
  *       Stephen Hawking                         Date:   May 13, 2014
  *
+ * //TODO This is a quide. Use ID / Description / Quantity / Unit Price / Total
+ *
  *   +-----------------------------------------------------------------+
  *   | Quantity |         Description         | Unit Price |   Total   |
  *   +-----------------------------------------------------------------+
