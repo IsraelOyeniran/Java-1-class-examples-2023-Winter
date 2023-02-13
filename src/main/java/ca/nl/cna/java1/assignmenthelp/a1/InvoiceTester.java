@@ -6,7 +6,7 @@ public class InvoiceTester {
         System.out.println("Fun with Invoices!");
 
         //Create the products
-        Product product = new Product(101, "Carton of Milk", 4.99);
+        //Product product = new Product(101, "Carton of Milk", 4.99);
 
         //Create the invoice items
         //TODO create this

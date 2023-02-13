@@ -8,7 +8,6 @@ package ca.nl.cna.java1.controlstructures;
 public class WhileLoopVsForLoop {
 
 
-
     public static void main(String[] args) {
 
         System.out.println("Comparing while loops with for loops");
